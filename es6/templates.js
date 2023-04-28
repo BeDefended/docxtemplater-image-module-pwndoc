@@ -94,6 +94,7 @@ module.exports = {
 								<a:solidFill>
 									<a:srgbClr val="${border}"/>
 								</a:solidFill>
+								<a:prstDash val="sysDash"/>
 							</a:ln>
 						</pic:spPr>
 					</pic:pic>
