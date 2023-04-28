@@ -87,12 +87,11 @@ module.exports = {
 								<a:ext cx="${size[0]}" cy="${size[1]}"/>
 							</a:xfrm>
 							<a:prstGeom prst="rect">
-								<a:avLst/>
 							</a:prstGeom>
 							<a:noFill/>
 							<a:ln>
 								<a:solidFill>
-									<a:srgbClr val="${border}"/>
+									<a:schemeClr val="tx1"/>
 								</a:solidFill>
 								<a:prstDash val="sysDash"/>
 							</a:ln>
