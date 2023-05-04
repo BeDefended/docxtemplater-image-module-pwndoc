@@ -54,7 +54,7 @@ module.exports = {
 		return `<w:drawing>
 		<wp:inline distT="0" distB="0" distL="0" distR="0">
 			<wp:extent cx="${size[0]}" cy="${size[1]}"/>
-			<wp:effectExtent l="1950" t="1950" r="19050" b="19050"/>
+			<wp:effectExtent l="19050" t="19050" r="19050" b="19050"/>
 			<wp:docPr id="2" name="Image 2" descr="image"/>
 			<wp:cNvGraphicFramePr>
 				<a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
